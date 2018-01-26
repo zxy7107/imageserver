@@ -1,0 +1,24 @@
+body > .container {
+	padding-bottom: 50px;
+}
+#nav-bottom {
+	min-height: 40px;
+}
+#nav-bottom .container {
+	    padding-right: 25px;
+	    padding-left: 25px;
+    }
+#nav-bottom li{
+	width: 25%;
+	margin-left: 0;
+	
+}
+
+#nav-bottom li a{
+	border-radius: 0;
+	text-align: center;
+}
+
+#punch-app .row:nth-child(2) {
+	margin-top: 20px;
+}
